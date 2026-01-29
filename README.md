@@ -27,10 +27,10 @@ This tool performs comprehensive discovery of SCCM and Active Directory infrastr
 
 ```powershell
 # Clone the repository
-git clone https://github.com/yourusername/sccm-domain-discovery.git
+git clone https://github.com/mr-r3b00t/sccm_hunter.git
 
 # Or download directly
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/sccm-domain-discovery/main/SCCM-Domain-Discovery.ps1" -OutFile "SCCM-Domain-Discovery.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/mr-r3b00t/sccm_hunter/main/SCCM-Domain-Discovery.ps1" -OutFile "SCCM-Domain-Discovery.ps1"
 ```
 
 ## Usage
